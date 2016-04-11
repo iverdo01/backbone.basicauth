@@ -1,11 +1,11 @@
 {
   "name": "backbone.basicauth",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "HTTP Basic Authentication for Backbone",
   "main": "backbone.basicauth.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fiznool/backbone.basicauth.git"
+    "url": "https://github.com/iverdo01/backbone.basicauth.git"
   },
   "keywords": [
     "backbone",
